@@ -1,0 +1,4 @@
+2025-07-08 - Upcoming: Title: mysql, Due: 2025-07-10, Priority: medium, Category: study
+2025-07-08 - Upcoming: Title: cooking, Due: 2025-07-11, Priority: low, Category: personal
+2025-07-08 - Upcoming: Title: DSA, Due: 2025-07-20, Priority: HIGH, Category: STUDY
+2025-07-08 - Upcoming: Title: spring boot, Due: 2025-07-09, Priority: high, Category: study
